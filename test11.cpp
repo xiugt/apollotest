@@ -7,4 +7,6 @@ double little_change;
 
 int second_change;
 
+int age;
+
 //changshigenggai
