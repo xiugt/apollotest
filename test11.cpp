@@ -1,9 +1,8 @@
-qq
-q
+#include <stdio.h>
 
-q
+int qq;
+int q;
 
+double little_change;
 
-dwqc
-从
-
+int second_change;
